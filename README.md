@@ -5,5 +5,5 @@ Detail-oriented and results-driven Data Science student experienced in maintaini
 ## Education
 #### Applied AI for Development Solution - Post Graduate Diploma (January 2023- December 2023)
 George Brown College, Toronto, ON.
--Machine Learning, Applied and Advance Mathematics, Data Management, 
- -Ethics and law for data science, Data visualization technique.
+- Machine Learning, Applied and Advance Mathematics, Data Management, 
+Ethics and law for data science, Data visualization technique.
